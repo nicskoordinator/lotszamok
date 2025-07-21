@@ -1,0 +1,2 @@
+# lotszamok
+Lot számok Babszinak
